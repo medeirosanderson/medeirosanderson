@@ -9,7 +9,7 @@ __Me chamo Anderson Medeiros__, formado em música pelo __Conservatório Pernamb
 ## __Tecnologias e Ferramentas__ ##
 
 ![HTML5](https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-gray?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+[PYTHON](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 Estou sempre em busca de novos desafios e sempre disposto a aprender novas tecnologias. 
 
 👷🏻‍♂️ Trabalho em Equipe 
