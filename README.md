@@ -1,28 +1,49 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand+Guides&size=20&pause=1000&color=6F06DC&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand+Guides&size=20&pause=1000&color=6F06DC&width=435&lines=Ol%C3%A1+Mundo%2C+Bem+vindo+ao+meu+README!)](https://git.io/typing-svg)
+# 👋 Olá, eu sou Anderson Medeiros
 
-__Me chamo Anderson Medeiros__, formado em música pelo __Conservatório Pernambucano de Música__, e atualmente em transição de carreira.
+💻 Desenvolvedor em formação (ADS)  
+📍 Recife - PE  
+🎸 Ex-professor de música em transição de carreira para tecnologia  
 
-🎸 __Professor de Música__ 🏡 __Recife-PE__ 
-💻 Apaixonado por __Desenvolvimento Web__ e __Front-End.__
+Atualmente focado em **lógica de programação (C)**, **desenvolvimento web** e **análise de dados com Power BI**, sempre buscando aplicar o conhecimento em projetos práticos.
 
-## __Tecnologias e Ferramentas__ ##
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-gray?style=for-the-badge&logo=visual-studio-code&logoColor=white)![PYTHON](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🚀 Tecnologias e Ferramentas
 
-Estou sempre em busca de novos desafios e sempre disposto a aprender novas tecnologias. 
+### 💻 Desenvolvimento
+![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&logoColor=white)
 
-👷🏻‍♂️ Trabalho em Equipe 
-🗣 Comunicativo 🟢 Curioso
+### 📊 Dados
+![Power BI](https://img.shields.io/badge/PowerBI-purple?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### 🛠 Ferramentas
+![VSCode](https://img.shields.io/badge/VSCode-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)
 
-### __Redes Sociais e Contato__ ###
+---
 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersomedeiros_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersomedeiros/) 
-	[![Gmail](https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.harmonicamente@gmail.com)
+## 📌 Sobre mim
 
-### __Github__ ###
+Sou movido por aprendizado constante e gosto de resolver problemas na prática, seja desenvolvendo aplicações ou trabalhando com dados.
 
-[![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medeirosanderson)
+Atualmente estou construindo projetos para consolidar minha base como desenvolvedor e evoluir diariamente.
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-medeiros-177821382/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersomedeiros_/)
+[![Gmail](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.harmonicamente@gmail.com)
+
+---
+
+## 📈 Estatísticas
 
 ![medeirosanderson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=medeirosanderson&theme=radical&hide_border=false)
