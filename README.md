@@ -1,4 +1,3 @@
-[README_github_profile_padronizado.md](https://github.com/user-attachments/files/26996179/README_github_profile_padronizado.md)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand+Guides&size=20&pause=1000&color=6F06DC&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 # 👋 Olá, eu sou Anderson Medeiros
