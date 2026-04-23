@@ -21,12 +21,12 @@ Busco oportunidades de estágio em TI para aplicar meus conhecimentos, adquirir 
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)
 ---
 🚀 Projetos em Destaque
-🔹 Sistema de Rotas do Metrô do Recife (C / Python)  
-🔗 https://github.com/medeirosanderson/metro-recife-python
-🔹 Sistema Bancário em Python  
-🔗 https://github.com/medeirosanderson/sistema_bancario_python
-🔹 Site harmonicamente (HTML/CSS)  
-🔗 https://github.com/medeirosanderson/harmonicamenteSite
+🔹 Sistema de Rotas do Metrô do Recife (C / Python)
+🔗 Acessar repositório
+🔹 Sistema Bancário em Python
+🔗 Acessar repositório
+🔹 Site harmonicamente (HTML/CSS)
+🔗 Acessar repositório
 ---
 📌 Sobre mim
 Sou movido por aprendizado constante e resolução de problemas na prática.
