@@ -62,7 +62,7 @@ Atualmente estou desenvolvendo projetos para consolidar minha base em programaç
 
 ## 📫 Contato
 
-📧 contato.harmonicamente@gmail.com
+📧 contato.devmedeiros@gmail.com
 
 ---
 
