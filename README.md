@@ -6,7 +6,7 @@
 🎯 Focado em projetos práticos e resolução de problemas  
 📍 Recife - PE  
 
-Atualmente desenvolvendo projetos em **C, Java, Python e JavaScript**, com foco em lógica de programação, desenvolvimento web e estudando análise de dados com Power BI.
+Atualmente desenvolvendo projetos em **Java, Python e JavaScript**, com foco em Backend, lógica de programação e desenvolvimento web.
 
 Busco oportunidades de estágio em TI para aplicar meus conhecimentos, adquirir experiência prática e evoluir como desenvolvedor.
 
