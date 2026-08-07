@@ -19,12 +19,12 @@ Busco oportunidades de estágio em TI para aplicar meus conhecimentos, adquirir 
 [![Tecnologias](https://skillicons.dev/icons?i=java,c,python,javascript)](https://skillicons.dev)
 
 ### 📊 Dados
-![Power BI](https://img.shields.io/badge/PowerBI-purple?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Tecnologias](https://skillicons.dev/icons?i=powerbi)
 
 ### 🛠 Ferramentas
-![VSCode](https://img.shields.io/badge/VSCode-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)
+
+![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
