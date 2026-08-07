@@ -15,11 +15,8 @@ Busco oportunidades de estágio em TI para aplicar meus conhecimentos, adquirir 
 ## 🚀 Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento
-![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&logoColor=white)
+
+[![Tecnologias](https://skillicons.dev/icons?i=java,c,python,javascript)](https://skillicons.dev)
 
 ### 📊 Dados
 ![Power BI](https://img.shields.io/badge/PowerBI-purple?style=for-the-badge&logo=powerbi&logoColor=white)
