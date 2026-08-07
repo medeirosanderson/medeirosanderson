@@ -18,10 +18,6 @@ Busco oportunidades de estágio em TI para aplicar meus conhecimentos, adquirir 
 
 [![Tecnologias](https://skillicons.dev/icons?i=java,c,python,javascript)](https://skillicons.dev)
 
-### 📊 Dados
-
-![Tecnologias](https://skillicons.dev/icons?i=powerbi)
-
 ### 🛠 Ferramentas
 
 ![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)
